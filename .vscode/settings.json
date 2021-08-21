@@ -1,0 +1,6 @@
+{
+    "phpserver.phpConfigPath": "",
+    "phpserver.router": "",
+    "phpserver.browser": "C:\\Program Files\\Google\\Chrome\\Application\\chrome",
+    "phpserver.phpPath": "C:\\laragon\\bin\\php\\php-8.0.9-Win32-vs16-x64/php.exe"
+}
